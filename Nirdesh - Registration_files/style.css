@@ -1,0 +1,160 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 0;
+  background-color: rgba(0, 0, 105, 0.719);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  background-color: skyblue;
+  color: white;
+  padding: 12px;
+}
+
+.nav-btns {
+  color: green;
+  display: flex;
+  gap: 8px;
+}
+
+.nav-btns > div {
+  cursor: pointer;
+}
+
+.nav-btns > div:hover {
+  color: lightcyan;
+  cursor: pointer;
+}
+
+img {
+  cursor: pointer;
+}
+
+.reg-form {
+  margin-top: 100px;
+  background-color: lightblue;
+  padding: 45px 60px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 33%;
+}
+
+input {
+  font-size: 1.2rem;
+  border-radius: 5px;
+}
+
+.submit-btn {
+  cursor: pointer;
+  width: 100%;
+  padding: 8px 0px;
+  text-align: center;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  background-color: darkblue;
+  color: white;
+}
+
+.submit-btn:hover {
+  background-color: darkslateblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 0;
+  background-color: rgba(0, 0, 105, 0.719);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  background-color: skyblue;
+  color: white;
+  padding: 12px;
+}
+
+.nav-btns {
+  color: green;
+  display: flex;
+  gap: 8px;
+}
+
+.nav-btns > div {
+  cursor: pointer;
+}
+
+.nav-btns > div:hover {
+  color: lightcyan;
+  cursor: pointer;
+}
+
+img {
+  cursor: pointer;
+}
+
+.reg-form {
+  margin-top: 100px;
+  background-color: lightblue;
+  padding: 45px 60px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 33%;
+}
+
+input {
+  font-size: 1.2rem;
+  border-radius: 5px;
+}
+
+.submit-btn {
+  cursor: pointer;
+  width: 100%;
+  padding: 8px 0px;
+  text-align: center;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  background-color: darkblue;
+  color: white;
+}
+
+.submit-btn:hover {
+  background-color: darkslateblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
